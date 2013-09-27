@@ -1,7 +1,8 @@
-zepto-shortcuts
+z-shortcuts
 ===============
 
-Zepto Shortcuts enable the ability to bind to shortcuts entered from the keyboard
+Z Shortcuts enable the ability to bind to shortcuts entered from the keyboard
+Available for both Zero and Zepto
 
 Usage: $(\<identifier\>).shortcut(\<shortcut\>, \<function\>)
 
