@@ -71,4 +71,4 @@
         })
     }
 
-})(Zepto)
+})(Zero||Zepto)
